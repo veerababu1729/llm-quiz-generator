@@ -1,0 +1,12 @@
+{
+  "topic": "Quantum Physics",
+  "difficulty": "medium",
+  "num_questions": 3,
+  "question_types": ["multiple choice", "short answer", "true/false"],
+  "subtopics": ["Wave-particle duality", "Quantum entanglement"],
+  "context_keywords": ["experiment", "theory", "equation"],
+  "target_audience": "Undergraduate Physics Students",
+  "language": "en",
+  "include_explanations": true,
+  "max_length": 30
+}

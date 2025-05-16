@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "What is the principle of wave-particle duality?",
+      "type": "short answer",
+      "answer": "It states that every particle or quantum entity exhibits both wave and particle properties.",
+      "explanation": "Wave-particle duality is a fundamental concept of quantum mechanics."
+    },
+    {
+      "question": "Which of the following is an example of quantum entanglement?",
+      "type": "multiple choice",
+      "options": [
+        "Two electrons sharing the same orbit",
+        "Two particles whose states are dependent regardless of distance",
+        "A photon passing through a slit",
+        "A neutron decaying into a proton"
+      ],
+      "answer": "Two particles whose states are dependent regardless of distance",
+      "explanation": "Entanglement means the state of one particle instantly influences the other, no matter the distance."
+    },
+    {
+      "question": "True or False: The Schrödinger equation is a fundamental equation in quantum mechanics.",
+      "type": "true/false",
+      "answer": "True",
+      "explanation": "The Schrödinger equation describes how the quantum state of a system changes over time."
+    }
+  ]
+}
