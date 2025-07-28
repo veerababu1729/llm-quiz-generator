@@ -4,6 +4,9 @@ import google.generativeai as genai
 from typing import List, Dict, Any
 import re
 
+#note that gemini api seems to be not available sometimes for free, better to check at thispoint of time.
+
+
 # --- MOCK DATA FOR TESTING ---
 MOCK_QUIZ = {
     "questions": [
